@@ -197,7 +197,7 @@
                           className: "df aic ttu jcc g1 flex-wrap mb2",
                           children: [
                             (0, c.jsx)("a", {
-                              href: "t.me/PedroDegenFun",
+                              href: "https://t.me/PedroDegenFun",
                               target: "_blank",
                               children: (0, c.jsxs)("div", {
                                 className:
@@ -450,10 +450,16 @@
                               className: "mb1 br10",
                               alt: "",
                             }),
-                            (0, c.jsx)("button", {
-                              className: "px3 py05 br10 fs15 bgb cw w100",
-                              children: "PEDRO",
-                            }),
+
+
+                              (0, c.jsx)("a", {
+                                className: "bgb py05 fs15 br10 cw w100",
+                                children: "PEDRO",
+                                style: { width: "100%", display: "flex", justifyContent: "center" },
+                                href: "https://pump.fun/ceFs6e3nKZvGLDXDAWnfRyvyRj9PWEEqupmifqHpump"
+                                
+                              }),
+
                           ],
                         }),
                         (0, c.jsxs)("div", {
@@ -513,10 +519,14 @@
                             }),
                             (0, c.jsxs)("div", {
                               className: "bcw pa1 br10 ",
+                              
                               children: [
-                                (0, c.jsx)("button", {
+                                (0, c.jsx)("a", {
                                   className: "bgb py05 fs15 br10 cw w100",
                                   children: "Book now",
+                                  style: { width: "100%", display: "flex", justifyContent: "center" },
+                                  href: "https://pump.fun/ceFs6e3nKZvGLDXDAWnfRyvyRj9PWEEqupmifqHpump"
+                                  
                                 }),
                                 (0, c.jsxs)("div", {
                                   className: "df aic g1 mt1",
@@ -529,7 +539,7 @@
                                       children: [
                                         (0, c.jsx)("div", {
                                           className: "fs15",
-                                          children: "www.PEDRO.meme",
+                                          children: "https://t.me/PedroDegenFun",
                                         }),
                                         (0, c.jsx)("div", {
                                           className: "fs15 fw600",
@@ -714,7 +724,7 @@
                         }),
                       }),
                       (0, c.jsx)("a", {
-                        href: "t.me/PedroDegenFun",
+                        href: "https://t.me/PedroDegenFun",
                         target: "_blank",
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
